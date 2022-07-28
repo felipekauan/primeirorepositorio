@@ -2,9 +2,19 @@ P{
             text-align: center;
             
          } 
+h1 {
+   text-align: center;
+}
 body { 
     background: #CCCCCC
  }
+
+ #missão{
+   style="font-size: 20px
+ }
+ 
+
+
  strong{
     color: red;
  }
